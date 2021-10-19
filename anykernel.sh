@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=QuicksilveR Kernel by ghostrider-reborn
+kernel.string=General Kernel by basic
 do.devicecheck=1
 do.modules=0
 do.systemless=1
